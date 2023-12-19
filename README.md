@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gussbaldaia/Portfolio](https://github.com/gussbaldaia/Portfolio)
 
-- 📫 How to reach me **gussbaldaia@gmail.com**
+- 📫 How to reach me **gustavonbaldaia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
