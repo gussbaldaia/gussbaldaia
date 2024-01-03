@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">As a tech enthusiast from Portugal, I am embarking on the exciting journey to become a data analyst/data scientist.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gussbaldaia/Portfolio](https://github.com/gussbaldaia/Portfolio)
+- 👨‍💻 Some of my projects are available at [https://github.com/gussbaldaia/Portfolio](https://github.com/gussbaldaia/Portfolio)
 
 - 📫 How to reach me **gustavonbaldaia@gmail.com**
 
